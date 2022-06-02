@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ase</h1>
+<h1 align="center">Ase (SaveTheNoob)</h1>
 <h3 align="center">AseCantCode (SaveTheNoob)</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/36b5f3342b33e8707b56efa5f553a96f/tenor.gif?itemid=25841848">
 
