@@ -1,6 +1,7 @@
 <h1 align="center">Hi, Im Ase (SaveTheNoob)😋 </h1>
+<img align="center" alt="Coding" width="500" src="https://media1.tenor.com/images/36b5f3342b33e8707b56efa5f553a96f/tenor.gif?itemid=25841848">
 <h3 align="center">AseCantCode (SaveTheNoob)</h3>
-<img align="right" alt="Coding" width="500" src="https://media1.tenor.com/images/36b5f3342b33e8707b56efa5f553a96f/tenor.gif?itemid=25841848">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
 
