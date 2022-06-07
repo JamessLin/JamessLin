@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Lua, Luau, Python, and Java**
+- 💬 Ask me about **Lua, Luau, Python, and Java(Im noob at Java)**
 
 - 📫 How to reach me **Ase#7930 (Discord)**
 
