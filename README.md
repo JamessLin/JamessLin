@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Lua, Luau, Python, and Java(Im noob at Java)**
 
-- 📫 How to reach me **Ase#7930 (Discord)**
+- 📫 How to reach me **Ase#5555 (Discord)**
 
 <p align="left">
 </p>
