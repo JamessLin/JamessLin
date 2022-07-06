@@ -1,11 +1,9 @@
-<h1 align="center">Hi, Im Ase (SaveTheNoob)😋 </h1>
-<h3 align="center">AseCantCode (SaveTheNoob)</h3>
-<img align="right" alt="Coding" src="https://media1.tenor.com/images/36b5f3342b33e8707b56efa5f553a96f/tenor.gif?itemid=25841848">
+### Hi there 👋, Ase
+![](https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
-
-- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Lua, Luau, Python, and Java(Im noob at Java)**
 
