@@ -3,10 +3,11 @@
 
 
 <p align="center"> 
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ", target=blank>
-      <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ", target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> 
       </a>
- </p>
+  </p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
