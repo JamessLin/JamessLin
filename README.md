@@ -1,8 +1,10 @@
 
 <p align="center"> 
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-      ![](https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png)
+      
+        <img src="https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png"m alt="Discord Card"
  </a>
+    </p>
 
 
 
@@ -10,6 +12,7 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
       <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
       </a>
+ </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
