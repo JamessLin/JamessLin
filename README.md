@@ -1,10 +1,4 @@
-
-<p align="center"> 
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-      
-        <img src="https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png"m alt="Discord Card"
- </a>
-    </p>
+![](https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png)
 
 
 
@@ -26,6 +20,8 @@
 
 
 <p align = "center">
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src = "https://github-readme-stats.vercel.app/api?username=SaveTheNoob&show_icons=true&theme=tokyonight" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SaveTheNoob&theme=tokyonight&hide_border=true" width = 400>
+         </a>
 </p>
