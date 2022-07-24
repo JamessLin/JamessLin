@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
 
-- 💬 Ask me about **Lua, Luau, Python, and Java(Im noob at Java)**
-
-- 📫 How to reach me **Ase#5555 (Discord)**
 
 <p align="left">
 </p>
