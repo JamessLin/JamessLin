@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-  <a target="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target=_blank>
       <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> </p>
       </a>
  </p>
