@@ -3,14 +3,14 @@
 
 
 <p align="center"> 
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ", target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> 
       </a>
   </p>
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/527078921431285780"m alt="Discord Card"
       />
   </a>
@@ -21,7 +21,7 @@
 
 
 <p align = "center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src = "https://github-readme-stats.vercel.app/api?username=SaveTheNoob&show_icons=true&theme=tokyonight" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SaveTheNoob&theme=tokyonight&hide_border=true" width = 400>
          </a>
