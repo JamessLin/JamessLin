@@ -8,7 +8,7 @@
   </p>
   
 <p align="center"> 
-      <img src="https://readme-jokes.vercel.app/api" alt="savethenoob" />     
+      <img src="https://readme-jokes.vercel.app/api" alt="savethenoob" width = 400 />     
   </p>
 
 
@@ -21,8 +21,6 @@
 
 
 <p align = "center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src = "https://github-readme-stats.vercel.app/api?username=SaveTheNoob&show_icons=true&theme=tokyonight" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SaveTheNoob&theme=tokyonight&hide_border=true" width = 400>
-         </a>
 </p>
