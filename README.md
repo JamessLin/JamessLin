@@ -24,5 +24,5 @@
 </p>
 
 <p align = "center">
-<img src="https://readme-jokes.vercel.app/api" alt="savethenoob" />     
+      <img src="https://readme-jokes.vercel.app/api" width = 700/>     
 </p>
