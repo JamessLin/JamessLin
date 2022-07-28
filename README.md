@@ -4,6 +4,7 @@
 
 <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> 
+      ![Jokes Card](https://readme-jokes.vercel.app/api)
   </p>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
