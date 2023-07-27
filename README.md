@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=savethenoob&label=Profile%20views&color=0e75b6&style=flat" alt="savethenoob" /> 
+      <img src="https://komarev.com/ghpvc/?username=JamessLin&label=Profile%20views&color=0e75b6&style=flat" alt="JamessLin" /> 
       
   </p>
   
@@ -19,8 +19,8 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SaveTheNoob&show_icons=true&theme=tokyonight" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=SaveTheNoob&theme=tokyonight&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=JamessLin&show_icons=true&theme=tokyonight" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=JamessLin&theme=tokyonight&hide_border=true" width = 400>
 </p>
 
 <p align = "center">
