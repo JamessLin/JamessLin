@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/663658987287347222/994066722795560990/2311.png)
+![](https://itswynnesworld.files.wordpress.com/2020/08/d2nbwjixcaehnqh.jpg)
 
 
 
