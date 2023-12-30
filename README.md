@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-   Havnt been coding recently
+   Havent been coding recently
       
   </p>
   
