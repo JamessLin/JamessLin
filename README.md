@@ -3,7 +3,7 @@
 
 
 <p align="center"> 
-   Im the best coder 
+   Havnt been coding recently
       
   </p>
   
