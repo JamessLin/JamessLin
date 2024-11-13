@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **anything React**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **linj3@union.edu**
 
