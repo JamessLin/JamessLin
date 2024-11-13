@@ -12,4 +12,4 @@
 - 📫 How to reach me **linj3@union.edu**
 
 
-![](https://leetcard.jacoblin.cool/linboxin?ext=heatmap)
+![](https://leetcard.jacoblin.cool/linboxin?ext=activity)
