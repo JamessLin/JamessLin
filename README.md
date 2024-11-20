@@ -3,9 +3,9 @@
 
 ### Hi, I'm James
 
-- 🔭 I’m currently working on **trading bot**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **CUDA**
 
 - 💬 Ask me about **anything**
 
