@@ -5,7 +5,7 @@
 First Year Student At Union College
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **OpenCV**
 
 - 💬 Ask me about **anything**
 
