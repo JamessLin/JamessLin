@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linj3@union.edu)
 
 ### Hi, I'm James
-
+First Year Student At Union College
 - 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning ****
