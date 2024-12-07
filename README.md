@@ -3,7 +3,7 @@
 
 ### Hi, I'm James
 First Year Student At Union College
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **my Portfolio Website**
 
 - 🌱 I’m currently learning ****
 
