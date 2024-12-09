@@ -3,9 +3,9 @@
 
 ### Hi, I'm James
 First Year Student At Union College
-- 🔭 I’m currently working on **my Portfolio Website**
+- 🔭 I’m currently working on **CLI tools in Rust**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Data Structures C/C++**
 
 - 💬 Ask me about **anything**
 
