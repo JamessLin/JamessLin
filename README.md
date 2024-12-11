@@ -11,4 +11,5 @@ First Year Student At Union College
 
 - 📫 How to reach me **linj3@union.edu**
 
-![image](https://github.com/user-attachments/assets/c310d1fc-fcfa-4a20-8b34-41afe1122c2f)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/linboxin?theme=nord&font=Raleway%20Dots&ext=heatmap)
