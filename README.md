@@ -3,7 +3,7 @@
 
 ### Hi, I'm James
 First Year Student At Union College
-- 🔭 I’m currently working on **go web**
+- 🔭 I’m currently working to build the best **Go (Game) Website**
 
 - 🌱 I’m currently learning **Data Structures C/C++**
 
