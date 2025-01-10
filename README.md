@@ -2,4 +2,5 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linj3@union.edu)
 
 ### Hi, I'm James
-First Year Student At Union College and I’m currently building the best **Go (Game) Website**
+I'm a self taught developer
+I’m currently building the best **Go (Game) Website**
