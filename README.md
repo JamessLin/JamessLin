@@ -3,4 +3,4 @@
 
 ### Hi, I'm James
 I'm a self taught developer
-I’m currently building the best **Go (Game) Website**
+I’m currently building the best 
