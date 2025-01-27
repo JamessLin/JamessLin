@@ -2,5 +2,4 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linj3@union.edu)
 
 ### Hi, I'm James
-I'm a self taught developer
-I’m currently building the best 
+I build things
