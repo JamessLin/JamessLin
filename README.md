@@ -3,3 +3,10 @@
 
 ### Hi, I'm James
 I build things
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamessLin&show_icons=true&theme=radical" alt="JamessLin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamessLin&layout=compact&theme=radical" alt="Top Languages" />
+</div>
