@@ -6,5 +6,5 @@ I build things
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamessLin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamessLin&layout=compact&theme=blue" alt="Top Languages" />
 </div>
