@@ -38,4 +38,4 @@
 
 #### **Stats**
 
-<img align="left" width="47%" src="https://leetcard.jacoblin.cool/linboxin?theme=light&font=Noto%20Sans" />
+<img align="left" width="47%" src="https://leetcard.jacoblin.cool/linboxin?theme=dark&font=Noto%20Sans" />
