@@ -6,7 +6,6 @@ Get things done
 
 #TechInnovator #AIEnthusiast #SoftwareEngineering #StudentDeveloper
 
-https://leetcode.com/u/linboxin
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamessLin/JamessLin/output/github-contribution-grid-snake-dark.svg">
